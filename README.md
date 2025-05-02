@@ -24,6 +24,6 @@ Low level maintenance and legacy update for Real-Time and Distributed Operating 
 Managment of small-to-medium teams of Customer Oriented Services, where taylored solutions and assistance are provided for Long Standing Clients, with a High rate of satisfaction. Customer Recovery, with higher-than-average success rate. Offimatic Solutions and Forecast Analysis.
 
 
-
+# Work Experience 
 - ### Streammind
 - ### Ocaso S.A.
