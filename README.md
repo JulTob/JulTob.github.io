@@ -9,7 +9,7 @@ Design of Electonic Control systems, using Low Level Languages such as Ada, C/C+
 
 # Programming Linguistics
 
-Development, Test and Integration of Graphic Programming Languages designed for offimatic automation. 
+Development, Test and Integration of Diagramatic Programming Languages designed for offimatic automation. 
 
 # Ada 
 
@@ -23,7 +23,15 @@ Low level maintenance and legacy update for Real-Time and Distributed Operating 
 
 Managment of small-to-medium teams of Customer Oriented Services, where taylored solutions and assistance are provided for Long Standing Clients, with a High rate of satisfaction. Customer Recovery, with higher-than-average success rate. Offimatic Solutions and Forecast Analysis.
 
+# Creativity
+A number of personal projects, where I foster my creative ideas:
+- ### Legendar Generations
+  An AI assisted NPC generator for TTRPGs.
+  - Flask
+  - Web Design: HTML/CSS/JAVASCRIPT environments.
+  - Dungeon and Dragons / Pathfinder / TTRPGs balanced design under randomness. 
 
 # Work Experience 
 - ### Streammind
 - ### Ocaso S.A.
+- ### HarrySound
